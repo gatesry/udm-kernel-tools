@@ -9,6 +9,8 @@ dd0eb5a8233f1e287009d644c57db864  usr/lib/udm-kernel-tools/modules/v1.10.0/kexec
 4ca28f7d35dfeec8b9c59da374655b6b  usr/lib/udm-kernel-tools/modules/v1.11.0/kexec_mod_arm64.ko
 0bdcad2a71c0d345d74114be6006fa00  usr/lib/udm-kernel-tools/modules/v1.11.4/kexec_mod.ko
 75f875ac5e96b4f031fc5cea4fb54e12  usr/lib/udm-kernel-tools/modules/v1.11.4/kexec_mod_arm64.ko
+65e3c5581f53c1ee7b5726e231c32176  usr/lib/udm-kernel-tools/modules/v1.12.21/kexec_mod.ko
+9f1fa36c3da799526c9debd4c570e8dd  usr/lib/udm-kernel-tools/modules/v1.12.21/kexec_mod_arm64.ko
 3ec1c80525652b06645cb929ac57d14c  usr/lib/udm-kernel-tools/modules/v1.8.6/kexec_mod.ko
 d70eb3c2054cc9615924aa5348bc55fa  usr/lib/udm-kernel-tools/modules/v1.8.6/kexec_mod_arm64.ko
 d8f5cec7764a83829b524abffc68499e  usr/lib/udm-kernel-tools/modules/v1.9.3/kexec_mod.ko
